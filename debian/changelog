@@ -1,0 +1,6 @@
+webrtc-grabber (1.0.1.alpha) jammy; urgency=medium
+
+  * Application version 1.0.1-alpha.
+  * Initial release (agent & relay binary packages).
+
+ -- Dmitrii Kupsov <demulkup@ya.ru>  Sun, 10 Nov 2024 19:44:07 +0300
